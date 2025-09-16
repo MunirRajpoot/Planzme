@@ -1,8 +1,9 @@
+import Carousel from "@/components/Carousel/Carousel";
 
 export default function Home() {
   return (
-    <>
-      <h1>Planzme</h1>
-    </>
+
+    <Carousel />
+
   );
 }
